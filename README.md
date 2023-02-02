@@ -1,16 +1,20 @@
-### Hi there 👋
+I'm a frontend developer
 
-<!--
-**dimshaa/dimshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learned
+- responsive & semantic layout
+- OOP (JS)
+- react.js
+- project deploy
 
-Here are some ideas to get you started:
+### Going to learn
+- testing
+- typescript
+- redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stack:
+<div align="left">
+  <img height="32" width="45" src="https://cdn.simpleicons.org/mongodb/#47A248" />
+  <img height="32" width="45" src="https://cdn.simpleicons.org/express/#000000" />
+  <img height="32" width="45" src="https://cdn.simpleicons.org/react/#61DAFB" />
+  <img height="32" width="45" src="https://cdn.simpleicons.org/nodedotjs/#339933" />
+</div>
