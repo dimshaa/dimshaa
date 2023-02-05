@@ -1,4 +1,4 @@
-I'm a frontend developer
+I'm a Frontend Developer
 
 ### Learned
 - responsive & semantic layout
